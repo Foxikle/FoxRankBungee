@@ -1,0 +1,4 @@
+name: FoxRankBungee
+version: '${project.version}'
+main: me.foxikle.foxrankbungee.FoxRankBungee
+description: The bungeecord exention of FoxRank
